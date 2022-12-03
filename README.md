@@ -1,16 +1,7 @@
-# flutter_with_clean_architecture
+# flutter_with_clean_architecture_course_implementation
 
-A new Flutter project.
+This project is just an implementation of [Flutter TDD Clean Architecture](https://youtube.com/playlist?list=PLB6lc7nQ1n4iYGE_khpXRdJkJEp9WOech) from [@ResoCoder](https://github.com/ResoCoder).
 
-## Getting Started
+You can find the real codes [here](https://github.com/ResoCoder/flutter-tdd-clean-architecture-course).
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Thanks for course...
