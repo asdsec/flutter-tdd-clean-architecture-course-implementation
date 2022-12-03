@@ -1,0 +1,50 @@
+name: flutter_with_clean_architecture
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.5 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # cache
+  shared_preferences: ^2.0.15
+
+  # functional programming
+  dartz: ^0.10.1
+
+  # modal meta data
+  equatable: ^2.0.5
+
+  # network
+  http: ^0.13.5
+
+  # service locator
+  get_it: ^7.2.0
+
+  # state management
+  flutter_bloc: ^8.1.1
+
+  # utility
+  internet_connection_checker: ^1.0.0+1
+  bloc: ^8.1.0
+
+dev_dependencies:
+  # code gen
+  build_runner: ^2.3.2
+
+  # test
+  flutter_test:
+    sdk: flutter
+  mockito: ^5.3.2
+
+  # lints
+  very_good_analysis: ^3.1.0
+
+flutter:
+  uses-material-design: true
